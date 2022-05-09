@@ -1,5 +1,6 @@
 CTRL N
 STRING https://pr.lakota.ml/
+ENTER
 DELAY 100
 STRING https://drive.google.com/drive/priority
 ENTER

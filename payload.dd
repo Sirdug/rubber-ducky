@@ -3,6 +3,6 @@ STRING https://pr.lakota.ml/
 ENTER
 DELAY 300
 TAB
-DELAY 600
+DELAY 650
 STRING https://drive.google.com/drive/priority
 ENTER

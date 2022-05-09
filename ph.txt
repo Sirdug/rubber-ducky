@@ -1,0 +1,5 @@
+CTRL N
+STRING https://pr.lakota.ml/
+DELAY 100
+STRING https://drive.google.com/drive/priority
+ENTER

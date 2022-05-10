@@ -1,2 +1,2 @@
 # rubber-ducky
-scripts for rubber ducky chromebook
+scripts for rubber ducky USB
